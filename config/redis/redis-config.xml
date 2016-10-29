@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<redis>
+		<property id="ip" value="192.168.56.12"></property>
+		<property id="port" value="6379"></property>
+		<property id="author" value=""></property>
+		<property id="timeout" value=""></property>
+		<property id="maxIdle" value="200"></property>
+		<property id="maxWaitMillis" value="10000"></property>
+		<property id="testOnBorrow" value="false"></property>
+		<property id="maxTotal" value="1024"></property>
+</redis>
